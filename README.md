@@ -4,6 +4,8 @@
 
 Este repositório tem como objetivo explicar a **Primeira Heurística de Usabilidade de Jakob Nielsen**, um dos princípios mais importantes do design de interfaces digitais.
 
+![Print do terminal do projeto em processo](https://github.com/manulaportee/una-ihcux-lista03/blob/main/Captura%20de%20tela%202026-03-26%20205455.png)
+
 A heurística abordada é:
 
 > **Visibilidade do status do sistema (Visibility of System Status)**
